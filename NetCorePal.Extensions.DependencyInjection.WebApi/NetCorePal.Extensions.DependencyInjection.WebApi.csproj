@@ -7,6 +7,9 @@
     <Company>netcorepal</Company>
     <Description>Microsoft Extensions DependencyInjection ASP.NET Web API Integration</Description>
     <PackageTags>netcorepal dependencyinjection webapi</PackageTags>
+    <PackageProjectUrl>https://github.com/netcorepal/NetCorePal.Extensions.DependencyInjection.WebApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/netcorepal/NetCorePal.Extensions.DependencyInjection.WebApi.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
